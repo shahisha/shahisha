@@ -106,9 +106,6 @@
     <img src="https://jay-jain.netlify.app/icons/artificial-intelligence.svg" alt="artificial-intelligence" width="40" height="40"/>
   </a>
   <h4>Others</h4>
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/blender.svg" alt="after effects" width="40" height="40"/>
-  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
