@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isha Shah</h1>
-<h3 align="center">passionate Data Science and Machine Learning Engineer</h3>
+<h3 align="center">Passionate Data Science and Machine Learning Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47oav5htifguji4vz39yh9l9yzbo1525apfbjtdamk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -12,7 +12,7 @@
 </p>
 <p align="left">
   <h3>Connect with me:</h3>
-  <a href="https://twitter.com/Jay4Tweeting" target="_blank">
+  <a href="https://www.linkedin.com/in/isha-shah-b94323232/" target="_blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
@@ -56,9 +56,6 @@
   <h4>Databases</h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="#">
-    <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
