@@ -14,14 +14,6 @@
   <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/isha-shah-b94323232/" target="_blank">
     <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="Jay4Tweeting" 
-      height="30" 
-      width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/jay-jain-a9bb12200/" target="_blank">
-    <img 
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
       alt="Jay Jain" 
