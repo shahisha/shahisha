@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47oav5htifguji4vz39yh9l9yzbo1525apfbjtdamk&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 -  🔭 I’m currently working on **Data Science and Machine Learning projects**<br>
-- 🌱 I’m currently learning **NLP and Data Science**<br>
+- 🌱 I’m currently learning **Open CV and Deep Learning**<br>
 
 <p align="right"> 
     <h3>Profile Views :-</h3>
